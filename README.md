@@ -1,5 +1,5 @@
 # Panorama Stitching
-Image stisching using homography matrix with RANSAC algorithm
+Image stitching using homography matrix with RANSAC algorithm
 
 ## Example 1:
 Image #1:
